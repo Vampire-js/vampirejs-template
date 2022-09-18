@@ -4,7 +4,7 @@ Steps to use:
 ```
 1) npx degit Vampire-js/vampirejs-template my-vampirejs-project
 2) cd my-vampirejs-project
-3) npm i or yarn i
+3) npm i or yarn
 4) npm run dev
 ```
 
